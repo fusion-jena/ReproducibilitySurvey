@@ -1,5 +1,8 @@
 # Survey on Understanding Experiments and Research Practices for Reproducibility: Material and Results
 
+[![DOI](https://zenodo.org/badge/267571610.svg)](https://zenodo.org/badge/latestdoi/267571610)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fusion-jena/ReproducibilitySurvey/master)
+
 This repository contains dataset and code for the analysis of the results from the survey 'Understanding Experiments and Research Practices for Reproducibility' conducted in the context of DFG CRC/TRR ReceptorLight. The purpose of this study was to gain a better understanding of what is needed to achieve reproducibility of experiments in science. The survey was
 implemented using [LimeSurvey](https://www.limesurvey.org/).
 This repository provides 4 files:
