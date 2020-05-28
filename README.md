@@ -31,5 +31,5 @@ Start the Jupyter Notebook and run all the cells.
 ## License
 This project is licensed under the CC BY 4.0 License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## FUNDING
+## Funding
 This research is supported by the “Deutsche Forschungsgemeinschaft” (DFG) in Project Z2 of the CRC/TRR 166 “High-end light microscopy elucidates membrane receptor function - ReceptorLight”.
